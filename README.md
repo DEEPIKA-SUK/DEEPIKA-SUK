@@ -2,8 +2,6 @@
 
 I am Deepika Sukhija, student at Department of Computer Science and Engineering at IIT Indore.
 
-![](https://komarev.com/ghpvc/?username=DEEPIKA-SUK)
-
 - 💬 Ask me about Web Development, Data Structures and Algorithms
 - 📫 How to reach me: Linkedin - [Deepika Sukhija](https://www.linkedin.com/in/deepika-sukhija-97ab261ba)
 
