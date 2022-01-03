@@ -4,6 +4,7 @@ I am Deepika Sukhija, student at Department of Computer Science and Engineering 
 
 - 💬 Ask me about Web Development, Data Structures and Algorithms
 - 📫 How to reach me: Linkedin - [Deepika Sukhija](https://www.linkedin.com/in/deepika-sukhija-97ab261ba)
+- [Portfolio](https://deepika-suk.github.io/Portfolio/)
 
 
 ### 🏆: My Github Stats
